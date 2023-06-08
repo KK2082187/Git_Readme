@@ -14,7 +14,7 @@ I'm a full stack developer...
 
 # Git Notes
 
-A brief description of git command.
+A brief description of git commands.
 
 Initialize Git :- To create a new repo, you'll use the git init command. Syntax :- git init
 
